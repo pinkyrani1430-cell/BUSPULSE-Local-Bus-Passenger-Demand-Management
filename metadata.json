@@ -1,0 +1,6 @@
+{
+  "name": "BusPulse",
+  "description": "Simple, beginner-friendly local bus passenger-demand management and operator decision support system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
